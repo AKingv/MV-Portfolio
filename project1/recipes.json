@@ -1,0 +1,14 @@
+{
+"recipesData": [
+        {
+            "name":" Classic Cheeseburger",
+            "ingredients": "brioche bread, american cheese,lettuce,tomato",
+            "prepTime": "30 seconds "           
+        },
+        {
+            "name": "Pizza Burger",
+            "ingredients": "brioche bread, mozzarela cheese, tomate sauce,fresh tomato",
+            "prepTime": "45 seconds"            
+        }
+    ]        
+}
