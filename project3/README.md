@@ -1,15 +1,10 @@
-## Project #3
-Give a high-level overview of the project purpose
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
+## Project #3 - GCP Selenium script
+
+The Selenium script produced by my coworker at Cisco is intended for internal use by our team to automate the process of uploading builds to Google Cloud Platform. The script is ran on a headless browser and includes logs that display in the terminal so a user knows what points the script has reached. The script cuts time and efforts for any team member needing to manually upload any builds. 
+The role I played in coding this automation script is troubleshooting the issue of identifying the DUO verification code that generates during login. Since the script is run in a headless browser we are unable to see the code. I found a way for the Selenium script to read the page by using the web pages source code that corresponds to the duo code. Once we grabbed this piece we included in the code a log that sends the code into the terminal so a user can read it.
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+The entire automation script is written in Python and the only libraries I needed to import were selenium and webdriver.
 
 ## Competencies
 ### JF XX.XX
