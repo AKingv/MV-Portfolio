@@ -1,9 +1,5 @@
 ## Project #2 - Battleship Game
-Give a high-level overview of the project purpose
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
+I created my Battleship game for a Hackathon. It is a single player game that can be modified to include a CPU player but that is a future feature. The intended audience is anyone who enjoys the classic game of Battleship and would like to play session on their own without needing a partner. The game is created to randomly generate ships throughout a map and you can send in coordinates to attempt to sink all ships. I was inspired to create the game since I personally love videogames. I wanted to create a game using Python since it is commonly used for game creation. I think the most important feature of my project is the Random library that I imported to create ships throughout the map and allowing for a player to really enjoy a single player environment without having to place ships themselves.
 
 ## Technologies
 I created my Hackathon project using only Python for programming and imported the Random python library to use randint.
