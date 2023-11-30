@@ -16,6 +16,9 @@ The entire automation script is written in Python and the only libraries I neede
 1.7 Demonstrates creativity and tenacity in their approach to solutions and the methods used to come to a solution for example, sees the task through to the end by devising new solutions and despite obstacles and problems along the way.
 
 ### JF 2
+
+My coworker and I made sure to follow all team procedures and policies since this tool would be used internally. We made sure that sensitive information used with Cisco or our team would not be exposed. Also, upon working on this project I was responsible for attending stand-up meetings to discuss progress and update user stories accordingly.
+
 2.1 Knows organizational policies and procedures relating to the tasks being undertaken, and when to follow them. For example, the storage and treatment of General Data Protection Regulation (GDPR) sensitive data.
 2.2 Understands how to create and analyze artefacts, such as use cases and/or user stories
 2.3 Applies logical thinking. For example, uses clear and valid reasoning when making decisions related to undertaking work instructions
