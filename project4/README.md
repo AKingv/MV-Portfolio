@@ -29,6 +29,9 @@ The entire script is written in Bash.
 3.7 Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security.
 
 ### JF 4
+
+A huge part of this project was linking code from different files to function simultaneously. This project required code edits across three different files that held references to one another, and these references needed to be updated to reflect the new feature. Then, once code was updated it was then pushed to my team's entire codebase with no conflicts.
+
 4.2 Knows the principles and uses of relational and non-relational databases
 4.3 Understands and can link code to data sets
 4.4 Understands how to create a logical and maintainable codebase
