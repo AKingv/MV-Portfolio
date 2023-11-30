@@ -9,6 +9,9 @@ The SpongeBob Recipe book is targetted for users looking for a simple and easy-t
 
 ## Competencies
 ### JF 1
+
+My team and I knew of our roles and responsibilities within this project. My sole responsibility within the Software Development Lifecycle was the testing stage. I created all the tests for our code and assisted in the Maintenance stage to correct any bugs from combining code. My team and I knew how to work effectively and each of us contributed appropriately by hosting several meetings to pair program. We wrote code together and helped each other avoid errors.
+
 1.1 Knows all stages of the software development life cycle (what each stage contains, including the inputs and outputs)
 1.2 Knows all the roles and responsibilities within the software development lifecycle (who is responsible for what)
 1.3 Knows all the roles and responsibilities of the project life cycle within their organization, and their role
